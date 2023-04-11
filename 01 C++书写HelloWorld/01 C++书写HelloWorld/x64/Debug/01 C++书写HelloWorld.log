@@ -1,5 +1,0 @@
-﻿  01 C++书写HelloWorld.cpp
-D:\MyCode\01 C++书写HelloWorld\01 C++书写HelloWorld\01 C++书写HelloWorld.cpp(11,5): error C2664: “int system(const char *)”: 无法将参数 1 从“char”转换为“const char *”
-D:\MyCode\01 C++书写HelloWorld\01 C++书写HelloWorld\01 C++书写HelloWorld.cpp(11,12): message : 从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(1211,26): message : 参见“system”的声明
-D:\MyCode\01 C++书写HelloWorld\01 C++书写HelloWorld\01 C++书写HelloWorld.cpp(11,5): message : 尝试匹配参数列表“(char)”时
