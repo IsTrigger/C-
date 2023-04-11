@@ -7,8 +7,9 @@ int main()
 {
     
 
-    std::cout << "Hello World!\n"<<endl;
-    system("pause");
+    /*std::cout << "Hello World!\n"<<endl;
+    system("pause");*/
+    return 0;
     return 0;
 }
 
